@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "main.C": "c"
+        "main.C": "c",
+        "prpa.C": "cpp"
     }
 }
